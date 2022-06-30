@@ -87,7 +87,6 @@ public class BinaryTree {
         tree.insert(3);
         tree.insert(5);
         tree.insert(7);
-        tree.printTree(tree.root);
-        tree.lookup2(999);
+        tree.insert(14);
     }
 }
