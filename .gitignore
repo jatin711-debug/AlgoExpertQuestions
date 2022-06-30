@@ -1,1 +1,5 @@
 *.class
+
+TournamentWinner.*
+
+.gitignore
